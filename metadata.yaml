@@ -1,0 +1,40 @@
+_repo: The-Dead-SecretA-Novel_43092
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: Rosamond Treverton lay dying at Porthgenna Tower, the family mansion
+  in Cornwall. Calling her lady's maid to her side she confesses a terrible secret
+  from her past, but dies before she can extract a promise from Sarah to reveal all
+  to her husband. Hiding the written confession in a remote part of the mansion, Sarah
+  carries the burden alone for fifteen years. Worn out by the strain, it is at this
+  point that she is pitched headlong into a chain of events which could lead to discovery
+  by the innocent she is trying to protect. Will the secret be revealed? What lies
+  in store for the young Rosamond, her blind husband and their infant son, heir to
+  Porthgenna?
+gutenberg_issued: '2013-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Cornwall (England : County) -- Fiction'
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcsh 'Mothers and daughters -- Fiction'
+title: 'The Dead Secret: A Novel'
+url: http://www.gutenberg.org/ebooks/43092
